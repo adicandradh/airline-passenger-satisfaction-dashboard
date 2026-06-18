@@ -24,7 +24,7 @@ Fokus utama dari project ini adalah mengolah data penumpang menjadi informasi ya
 - Penanganan missing values dan validasi data
 - Pembuatan calculated columns menggunakan DAX
 - Pembuatan measures menggunakan DAX untuk KPI dan business metrics
-- Pengelompokan (grouping) variabel numerik menjadi kategori
+- Pengelompokan (grouping) variabel numerik menjadi variabel kategori
 
 ## 🧠 Business Logic
 - Total Passengers dihitung berdasarkan jumlah ID penumpang unik.
