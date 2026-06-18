@@ -51,7 +51,7 @@ Fokus utama dari project ini adalah mengolah data penumpang menjadi informasi ya
 
 ## 🖼️ Preview
 Berikut dashboard interaktif yang dikembangkan menggunakan Microsoft Power BI:
-<img width="4100" height="2350" alt="airline-passengers-satisfaction" src="https://github.com/user-attachments/assets/fb46fa09-3cef-4d35-b116-67aca7c09d77" />
+<img width="4100" height="2350" alt="airline-passengers-satisfaction" src="https://github.com/user-attachments/assets/209d01f3-fbcd-4317-8542-bd99e4be8ac8" />
 
 ## 📊 Insights
 - Dashboard menunjukkan total 129,88 ribu passengers, terdiri dari 56,43 ribu passengers (43,45%) yang satisfied dan 73,45 ribu passengers (56,55%) yang neutral or dissatisfied. Selain itu, mayoritas pelanggan merupakan returning passengers sebanyak 106,10 ribu (81,69%), sedangkan first-time passengers berjumlah 23,78 ribu (18,31%). Distribusi gender relatif seimbang dengan 64 ribu male passengers (49,26%) dan 66 ribu female passengers (50,74%).
