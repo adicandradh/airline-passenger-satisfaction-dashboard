@@ -1,3 +1,4 @@
-# airline-passenger-satisfaction-dashboard
 
-<img width="1437" height="806" alt="image" src="https://github.com/user-attachments/assets/a32d8a7b-dfb8-45a2-b658-d42352ee05d4" />
+
+<img width="4100" height="2350" alt="airline-passengers-satisfaction" src="https://github.com/user-attachments/assets/d16ba777-fabc-4cfd-8bda-80b0124d6698" />
+
