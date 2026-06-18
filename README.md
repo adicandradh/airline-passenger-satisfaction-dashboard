@@ -22,10 +22,9 @@ Fokus utama dari project ini adalah mengolah data penumpang menjadi informasi ya
 ## ⚙️ Data Processing
 - Data cleaning untuk memastikan konsistensi dan kualitas data
 - Penanganan missing values dan validasi data
-- Pembuatan calculated columns menggunakan DAX (Age Group dan Departure Delay Group)
+- Pembuatan calculated columns menggunakan DAX
 - Pembuatan measures menggunakan DAX untuk KPI dan business metrics
-- Pengelompokan (grouping) variabel numerik menjadi kategori analitis
-- Data transformation untuk mendukung visualisasi dashboard
+- Pengelompokan (grouping) variabel numerik menjadi kategori
 
 ## 🧠 Business Logic
 - Total Passengers dihitung berdasarkan jumlah ID penumpang unik.
