@@ -1,4 +1,4 @@
-# Airline Passenger Satisfaction Dashboard (Power BI)
+# Airline Passenger Satisfaction Dashboard
 
 ## 📌 Project Type
 Personal Project
