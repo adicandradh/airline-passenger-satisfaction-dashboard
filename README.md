@@ -40,10 +40,10 @@ Fokus utama dari project ini adalah mengolah data penumpang menjadi informasi ya
 
 ## 🛠️ Tools & Skills
 - Microsoft Power BI
-- DAX (Data Analysis Expressions)
 - Data cleaning
 - Data transformation
 - Data modeling
+- DAX (Data Analysis Expressions)
 - Calculated columns & measures
 - Data visualization & dashboard design
 - Business analysis
