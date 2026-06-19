@@ -50,7 +50,7 @@ Fokus utama dari project ini adalah mengolah data penumpang menjadi informasi ya
 
 ## 🖼️ Preview
 Berikut dashboard interaktif yang dikembangkan menggunakan Microsoft Power BI:
-<img width="4100" height="2350" alt="airline-passengers-satisfaction" src="https://github.com/user-attachments/assets/209d01f3-fbcd-4317-8542-bd99e4be8ac8" />
+<img width="4100" height="2350" alt="airline-passengers-satisfaction" src="https://github.com/user-attachments/assets/b27d7721-47c1-4b8f-a29d-5a0d426a3ea0" />
 
 ## 📊 Insights
 - Dashboard menunjukkan terdapat 129,88 ribu passengers, dengan 56,43 ribu (43,45%) berada pada kategori Satisfied dan 73,45 ribu (56,55%) berada pada kategori Neutral or Dissatisfied. Mayoritas merupakan Returning Passengers sebanyak 106,10 ribu (81,69%), sedangkan First-time Passengers berjumlah 23,78 ribu (18,31%). Selain itu, rata-rata Flight Distance tercatat sebesar 1.190 km dengan Average Departure Delay sebesar 14,71 menit.
